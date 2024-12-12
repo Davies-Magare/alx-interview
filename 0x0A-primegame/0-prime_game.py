@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""Prime Number game"""
 def isWinner(x, nums):
     def sieve_of_eratosthenes(max_n):
         """Generate a list of primes up to max_n."""
